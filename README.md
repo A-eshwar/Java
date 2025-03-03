@@ -1,2 +1,21 @@
-# Java
-This repository contains a mini project with several Java programs that demonstrate the use of Graphical User Interface (GUI) components to perform different tasks. The project includes a Factorial Calculator that calculates the factorial of a given positive integer using a simple GUI, a Mini Bidding Station that allows users to place bids on items categorized as electronic, fashion, or home, and an Eligibility to Vote Checker that determines if a user is eligible to vote based on their age. The programs make use of various Java GUI components like JFrame, JTextField, JRadioButton, and event listeners to interact with the user. This project serves as a practical example for beginners to understand the basics of GUI programming in Java, including input handling, event-driven architecture, and simple business logic.
+# Java GUI Mini-Projects
+
+This repository contains a collection of Java mini-projects that utilize Graphical User Interface (GUI) components to perform various tasks.
+
+## 📌 Project Overview
+
+This project includes various Java GUI applications demonstrating fundamental concepts such as event handling, user interaction, and data processing.
+
+## 📂 File Structure
+
+- **FactorialGuiDemo.java** – A GUI application to calculate the factorial of a given number.
+- **Item.java** – A mini bidding station allowing users to place bids on categorized items.
+  - Supports three categories: Electronics, Fashion, and Home.
+  - Displays the highest bid in real time and updates the winner.
+- **SwingDemo.java** – A GUI-based eligibility checker for voting based on age.
+
+## 🚀 Features
+
+Interactive Java GUI applications  
+Event-driven programming using Swing  
+User input validation and processing  
