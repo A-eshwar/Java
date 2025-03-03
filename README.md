@@ -1,9 +1,6 @@
 # Java OOP Concepts Demonstration
 
 This repository contains Java programs that exemplify the four fundamental pillars of Object-Oriented Programming (OOP): Encapsulation, Inheritance, Polymorphism, and Abstraction.
-
-## 📌 Project Overview
-
 Each program in this collection is designed to illustrate a specific OOP concept, providing clear and concise examples to aid in understanding these foundational principles.
 
 ## 📂 File Structure
