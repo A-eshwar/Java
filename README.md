@@ -1,1 +1,2 @@
 # Java
+This repository includes Java programs that demonstrate key OOP concepts like Inheritance, Abstraction, Polymorphism, and Encapsulation. It also covers additional topics such as annotations, exception handling, file I/O, multithreading, and garbage collection. Programs like AnnotationDemo show how annotations manage code behavior, while BankAccount illustrates data encapsulation and interaction. Other programs cover command-line argument handling, file processing, and inter-thread communication, offering a broad view of both fundamental and advanced Java topics.
