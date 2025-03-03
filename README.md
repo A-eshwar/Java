@@ -1,2 +1,10 @@
-# Java
-This project contains several simple Java programs that demonstrate basic operations such as calculating the frequency of a specified character in a string, calculating the frequency of each unique character in a string, reversing an array without creating another array, and sorting an array using the Bubble Sort algorithm. The programs take user input, process the data accordingly (such as counting occurrences or sorting), and output the results. They showcase common algorithms and concepts like string manipulation, array reversal, and sorting, making them useful examples for beginners to understand Java programming and algorithm implementation.
+# 📌Java Programming Exercises
+
+This repository contains a collection of Java programs that demonstrate fundamental concepts and operations in Java programming.
+
+## 📂Programs Included
+
+1. **FrequencyOfChar.java**: Calculates the frequency of a specified character in a given string.
+2. **FrequencyOfEachChar.java**: Determines the frequency of each unique character in a string.
+3. **ReverseOfArray.java**: Reverses the elements of an array without creating a new array.
+4. **SortOfArray.java**: Sorts an array using the Bubble Sort algorithm.
